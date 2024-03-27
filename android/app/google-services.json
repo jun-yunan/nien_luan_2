@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "678764703469",
+    "firebase_url": "https://fashion-shops-6faa7-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fashion-shops-6faa7",
+    "storage_bucket": "fashion-shops-6faa7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678764703469:android:06c5d38b2f1370d7f4a6e4",
+        "android_client_info": {
+          "package_name": "com.example.nien_luan_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678764703469-om1p1beti4rh1okqdeikv2m4puih0u8o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nien_luan_2",
+            "certificate_hash": "4aedd84da6d4dcda8a409ea38ed101deb2925a08"
+          }
+        },
+        {
+          "client_id": "678764703469-jf4rmvlau57se6pq4d9t508bh5s1td2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD702Iv3NDQEC6H648f_hGWLNE-Fn8eow4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678764703469-jf4rmvlau57se6pq4d9t508bh5s1td2m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "678764703469-6sdig4epiaqnbgrb4j8bv3c2dc1u980f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nienLuan2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

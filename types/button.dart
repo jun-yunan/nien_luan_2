@@ -1,0 +1,1 @@
+enum ButtonStyle { solid, outline }
